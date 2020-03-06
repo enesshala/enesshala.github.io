@@ -19,8 +19,3 @@
 		transform: none !important;
 		opacity: 1 !important;
 	}
-
-	#particles-js{
-		background-image: url('image1.jpg');
-		height: 100vh;
-	}
