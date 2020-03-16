@@ -155,13 +155,13 @@ body{
 
 
 footer{
-    position: relative;
+    position: absolute;
     color: white;
     font-family: 'Poppins', sans-serif;
     letter-spacing: 3px;
     justify-content: center;
     text-align: center;
-    bottom: -10px;
+    bottom: 0px;
     left: 50%;
     transform: translateX(-50%);
 }
