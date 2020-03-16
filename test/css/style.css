@@ -197,6 +197,7 @@ footer a:hover{
 @media only screen and (max-width: 400px) {
     .box {
         width: 250px;
+        margin-top: none;
     }
     .box h1{
         font-size: 30px;
@@ -208,7 +209,7 @@ footer a:hover{
         font-size: 40px;
     }
     footer{
-        letter-spacing: 2px;
-        font-size: 12px;
+        letter-spacing: 1px;
+        font-size: 11px;
     }
 }
