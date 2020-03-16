@@ -161,7 +161,7 @@ footer{
     letter-spacing: 3px;
     justify-content: center;
     text-align: center;
-    top: 95%;
+    bottom: 0;
     left: 50%;
     transform: translateX(-50%);
 }
@@ -206,5 +206,9 @@ footer a:hover{
     }
     .box li a{
         font-size: 40px;
+    }
+    footer{
+        letter-spacing: 2px;
+        font-size: 12px;
     }
 }
