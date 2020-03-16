@@ -19,7 +19,7 @@ body{
     margin-top: 5%;
     color: white;
     font-family: 'Poppins', sans-serif;
-    margin-top: 10%;
+    margin-top: 7%;
 }
 
 .box h1{
@@ -155,13 +155,13 @@ body{
 
 
 footer{
-    position: absolute;
+    position: relative;
     color: white;
     font-family: 'Poppins', sans-serif;
     letter-spacing: 3px;
     justify-content: center;
     text-align: center;
-    bottom: 0;
+    bottom: -10px;
     left: 50%;
     transform: translateX(-50%);
 }
@@ -180,7 +180,7 @@ footer a:hover{
 @media only screen and (max-width: 600px) {
     .box {
       width: 400px;
-      margin-top: 15%;
+      margin-top: 10%;
     }
     .box-img{
         width: 150px;
@@ -190,7 +190,7 @@ footer a:hover{
 @media only screen and (max-width: 500px) {
     .box {
         width: 300px;
-        margin-top: 20%;
+        margin-top: 15%;
     }
 }
 
