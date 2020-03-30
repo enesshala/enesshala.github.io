@@ -1,0 +1,55 @@
+.team-clean .people {
+    padding-bottom: 40px;
+  }
+  .team-clean .intro {
+    font-size: 16px;
+    max-width: 500px;
+  }
+  
+  
+  
+  .team-clean .item {
+    text-align: center;
+    padding-top: 50px;
+  }
+  
+  .team-clean .item img {
+    max-width: 160px;
+  }
+  
+  .team-clean .item .title {
+    text-transform: uppercase;
+    font-weight: bold;
+    color: #d0d0d0;
+    letter-spacing: 2px;
+    font-size: 13px;
+  }
+  
+  .team-clean .item .description {
+    font-size: 15px;
+    margin-top: 15px;
+    margin-bottom: 20px;
+  }
+  
+  .team-clean .social {
+    font-size: 20px;
+    color: #a2a8ae;
+  }
+  
+  .team-clean .social a:hover {
+    opacity: 1;
+  }
+  
+  .team-clean .social a {
+    color: inherit;
+    font-size: 20px;
+    margin: 0 10px;
+    display: inline-block;
+    opacity: 0.7;
+  }
+  
+  .social i{
+      font-size: 30px;
+  }
+  
+  
